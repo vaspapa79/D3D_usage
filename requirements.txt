@@ -1,0 +1,5 @@
+numpy
+xarray
+matplotlib
+netCDF4
+pyproj
