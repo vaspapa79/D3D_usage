@@ -13,7 +13,7 @@ This repository includes a collection of Python scripts to:
 
 ## Data Availability
 The data used for these scripts is **not included** in the repository due to size and licensing.  
-**Please contact `your_email@example.com` to request access.**
+**Please contact vaspapa@iti.gr to request access.**
 
 ## Requirements
 These scripts require:
